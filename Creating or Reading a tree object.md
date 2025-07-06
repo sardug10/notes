@@ -66,7 +66,7 @@ command:
 `$ git cat-file -p master^{tree}
 
 you should see something like this:
-![[Pasted image 20250601172620.png]]
+![git cmmmit master tree](./git-master-commit-tree.png)
 
 The `master^{tree}` syntax specifies the tree object that is pointed to by the last commit on your `master` branch.
 
